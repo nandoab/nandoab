@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nandoab
-- 👀 I’m interested in Numerical Analysis, Computational Fluid Dynamics, and Plasma Physics
-- 🌱 I’m currently learning C++, Numerical Linear Algebra
+- 👀 I’m interested in Numerical Analysis, Computational Electromagnetics, and Plasma Physics
+- 🌱 I’m currently learning C++
 
 
 <!---
